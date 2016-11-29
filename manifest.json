@@ -1,0 +1,11 @@
+{
+  "name": "GitHub Organization Show Extenstion",
+  "version": "0.1.0",
+  "manifest_version": 2,
+  "description": "On the top page of GitHub, you will see a list of your Organization.",
+  "content_scripts": [{
+    "matches": ["https://github.com/"],
+    "js": ["vue.js", "main.js"],
+    "run_at": "document_end"
+  }]
+}

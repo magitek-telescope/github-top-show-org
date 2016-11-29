@@ -1,2 +1,5 @@
-# github-top-show-teams
-Show Your team icon and links on Github top page Chrome Extension.
+# GitHub Organization Show Extenstion
+
+Chrome Extension.
+
+On the top page of GitHub, you will see a list of your Organization.
